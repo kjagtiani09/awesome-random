@@ -45,6 +45,10 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Databases
 
+## Third party developers
+
+- [Intuit Developer community](https://www.developer.intuit.com)
+
 - [Importing Graph data into Neo4j](https://neo4j.com/developer/example-data/)
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
 
